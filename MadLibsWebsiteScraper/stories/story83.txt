@@ -1,0 +1,3 @@
+Anybody Want a Peanut?
+{'[1]': 'NAME OF PERSON IN ROOM', '[2]': 'VERB', '[3]': 'ADVERB', '[4]': 'VERB ENDING IN "S"', '[5]': 'ADJECTIVE', '[6]': 'ADJECTIVE', '[7]': 'NOUN', '[8]': 'NOUN (PLURAL)', '[9]': 'VERB', '[10]': 'NOUN (PLURAL)', '[11]': 'NOUN'}
+Inigo: That [1], he can fuss. Fezzik:... fuss... fuss... I think he likes to [2] at us. Inigo: [3] he [4] no harm. Fezzik: He`s really very [5] on charm. Inigo: Oh, you`ve a [6] [7] for rhyme. Fezzik: Yes, some of the time. [1]: Enough of that. Inigo: Fezzik, are there [8] ahead? Fezzik: If there are, we`ll all [9] dead. [1]: No more [10] now, I mean it. Fezzik: [11] want a peanut?

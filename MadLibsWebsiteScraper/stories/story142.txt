@@ -1,0 +1,3 @@
+Flintstones Theme
+{'[1]': 'NOUN (PLURAL)', '[2]': 'ADJECTIVE', '[3]': 'CITY', '[4]': 'NOUN', '[5]': 'VERB', '[6]': 'NOUN', '[7]': 'NAME OF PERSON IN ROOM', '[8]': 'NUMBER', '[9]': 'SILLY WORD', '[10]': 'SILLY WORD', '[11]': 'NOUN', '[12]': 'ADJECTIVE'}
+Flint [1], meet the Flint [1], They`re a modern [2] family. From the town of [3], They`re a [4] right out of history. Let`s [5], with the family down the [6], Through the courtesy of [7]`s [8] feet. When you`re with the Flint [1], Have a [9] [10] doo [11] -- A [12] doo [13], You`ll have a [12] old [13]!

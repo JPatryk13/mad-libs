@@ -1,0 +1,3 @@
+How to make a PB&J
+{'[1]': 'COLOR', '[2]': 'NOUN', '[3]': 'FOOD', '[4]': 'ADJECTIVE', '[5]': 'ADJECTIVE', '[6]': 'NUMBER', '[7]': 'NOUN', '[8]': 'VERB', '[9]': 'VERB', '[10]': 'NOUN'}
+1. Select the type of bread you want to use. Many prefer the taste of [1] bread, while others prefer [2] bread because it is healthy. 2. Choose the flavor of Jam/ Jelly. I personally prefer [3] jam, but you can use whatever you want. 3. Choose the type of penut butter - either [4] or [5]. 4. Take out [6] slice(s) of bread. 5. Use a [7] to [8] the jam all over on of the pieces of bread. 6. Now [9] the penut butter on the other piece of bread. 7. Put them together, and you have a P B& J [10].

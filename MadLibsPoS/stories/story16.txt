@@ -1,0 +1,3 @@
+Adolecent Genetically-Altered Karate Amphibians
+{'[1]': 'ADJECTIVE', '[2]': 'ADJECTIVE', '[3]': 'OCCUPATION', '[4]': 'ANIMAL (PLURAL)', '[5]': 'ANIMAL', '[6]': 'NOUN', '[7]': 'NOUN (PLURAL)', '[8]': 'ADJECTIVE', '[9]': 'KITCHEN APPLIANCE', '[10]': 'VERB', '[11]': 'SILLY WORD'}
+The [1] [2] [3] [4] are 4 [4] who are lead by a/an [5] in the fight against [6]. They strive to protect [7] from all violence, but their most [8] enemy is the dreaded [9]. They also love to [10] Pizza! [11], dude!

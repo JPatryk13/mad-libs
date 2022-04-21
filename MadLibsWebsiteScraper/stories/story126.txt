@@ -1,0 +1,3 @@
+We May Never Know!!!
+{'[1]': 'ADJECTIVE', '[2]': 'NOUN', '[3]': 'NOUN', '[4]': 'NOUN', '[5]': 'PLURAL NOUN', '[6]': 'VERB', '[7]': 'BODY PART (PLURAL)', '[8]': 'NOUN', '[9]': 'ADJECTIVE', '[10]': 'RUDE ACTION', '[11]': 'YOUR WORST TEACHER', '[12]': 'NOUN'}
+Bob was a [1] [2] who never really got his head out of the [3] and was alway getting into [4] with the [5]. His favorite thing to do was [6] the [7] off of his sister`s [8]. One day when he felt particuarly [9] he decided to [10] everyone he knew. Well as you can guess that didn`t sit too well with [11] and so [11] sent Bob to the one place he belonged... the town [12]. And he sits there still today wondering why he got in trouble.

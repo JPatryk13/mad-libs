@@ -1,0 +1,3 @@
+Dirty Martini
+{'[1]': 'VERB', '[2]': 'NOUN', '[3]': 'NAME OF DRINK', '[4]': 'FAMOUS PERSON', '[5]': 'ANIMAL (PLURAL)', '[6]': 'NAME OF A NUT', '[7]': 'NOUN', '[8]': 'VERB ENDING IN "ED"', '[9]': 'VERB', '[10]': 'PLACE', '[11]': 'FAMOUS PERSON', '[12]': 'PHRASE'}
+Dirty Martinis are a good cocktail while you are on a date. Who can [1] a dirty martini? first, get a martini [2]. Add [3] or [4]. Next, add some [5] and some [6]. Put it in a [7] and drink. You can also have it [8]. Now [9]. You can also go to a [10] and get one already made. Many celebirties like this drink including [11]. [12]!

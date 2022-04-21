@@ -1,0 +1,3 @@
+Katie`s Kapers
+{'[1]': 'VERB ENDING IN "ING"', '[2]': 'NOUN', '[3]': 'PART OF THE BODY', '[4]': 'VERB', '[5]': 'ANIMAL', '[6]': 'VERB ENDING IN "ED"'}
+I was [1] down the hallway and some [2] grabbed my [3], and I turned to him and said "so help me, if you [4] me again you will go the way of the [5]." And then he [6] away.

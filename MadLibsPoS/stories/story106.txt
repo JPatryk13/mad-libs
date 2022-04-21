@@ -1,0 +1,3 @@
+abducted by aliens!
+{'[1]': 'VERB ENDING IN "ING"', '[2]': 'VERB ENDING IN "ED"', '[3]': 'VERB ENDING IN "ED"', '[4]': 'NOUN', '[5]': 'VERB', '[6]': 'ANIMAL', '[7]': 'NOUN', '[8]': 'NOUN', '[9]': 'NOUN', '[10]': 'PLACE', '[11]': 'NUMBER'}
+I was [1] along the sidewalk when an alien [2] me. I was [3] into their [4] and it blasted off. Then the alien asked me to [5] on the T V. I was suprised they spoke english. the aliens had a pet [6]. We ordered a [7] and it tasted good. As we came back into the galaxy, one alien asked me if I wanted a [8]. I said no but I would like a [9]. He got it for me and then dropped me off at my [10]. then I realized I had been gone for [11] years!

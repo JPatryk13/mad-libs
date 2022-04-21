@@ -1,0 +1,3 @@
+The New Day
+{'[1]': 'VERB ENDING IN ING', '[2]': 'VERB ENDING IN ING', '[3]': 'VERB ENDING IN ED', '[4]': 'PLACE', '[5]': 'VERB', '[6]': 'VERB'}
+Tommorrow is a new day full of new suprises and new adventures. Such as [1] and [2]. Tommorrow leads you to the life you haven`t [3] yet. So why not plan to live today with the most adventurious and positive outlook. Because today is yesterday`s tommorrow and we all know that it`s good to do things differently. So let`s go to [4] and [5] with someone cool. Or you could just let it [6] right by.

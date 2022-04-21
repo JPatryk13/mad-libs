@@ -1,0 +1,3 @@
+Romantic Poetry
+{'[1]': 'COLOR', '[2]': 'NOUN (PLURAL)', '[3]': 'NOUN', '[4]': 'ADJECTIVE'}
+Roses are [1], [2] are blue, [3] is [4], and so are you.

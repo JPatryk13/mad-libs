@@ -1,0 +1,3 @@
+J.R.R. Tolkien
+{'[1]': 'FRUIT', '[2]': 'NOUN (PLURAL)', '[3]': 'NOUN', '[4]': 'NOUN', '[5]': 'NOUN (PLURAL)', '[6]': 'NOUN', '[7]': 'SILLY WORD'}
+J. R. R. Tolkien has been thrust into the [1]-light yet again with the release of his famous trilogy Lord of the [2] as a [3] series. The three books, [4] of the Ring, The Two [5], and Return of the [6], are preceded by another book The [7], which may also be filmed later on.

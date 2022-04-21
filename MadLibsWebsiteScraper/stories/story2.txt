@@ -1,0 +1,3 @@
+Hail to the Chief!
+{'[1]': 'PLACE', '[2]': 'AMOUNT OF TIME', '[3]': 'ADJECTIVE', '[4]': 'NOUN', '[5]': 'NOUN', '[6]': 'NOUN (PLURAL)', '[7]': 'NOUN (PLURAL)', '[8]': 'VERB', '[9]': 'VERB', '[10]': 'OCCUPATION'}
+The president of the [1] is elected every [2] by a group of people called the [3] College. Each [4] casts votes in a preliminary hearing called a [5]. Throughout the campaign, the candidates participate in [6] and [7]. Many people try to [8] the outcome using polls and statistics. In the end, only one person is selected to [9] the country as [10] in Chief.

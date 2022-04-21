@@ -1,0 +1,3 @@
+A Day at Waste Management
+{'[1]': 'NOUN(PLURAL)', '[2]': 'ADJECTIVE', '[3]': 'NOUN', '[4]': 'NOUN(PLURAL)', '[5]': 'NOUN(PLURAL)', '[6]': 'NOUN', '[7]': 'VERB ENDING IN "S"', '[8]': 'NOUN', '[9]': 'NOUN(PLURAL)', '[10]': 'PERSONS NAME'}
+It`s another day here at Waste Management, and I can`t wait to talk to all the [1]. I tell ya, sometimes these [1] can be very [2]. Ruth stops by everyone`s [3] and collects everybody`s [4]. Jenifer sits at her desk and clips [5] in her spare time. Heidi is the customer service [6]. She [7] new hires how to do their [8]. We had a meeting today about [9]. I love [10]!

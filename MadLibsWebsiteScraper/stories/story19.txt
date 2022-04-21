@@ -1,0 +1,3 @@
+There Was an Old Woman
+{'[1]': 'ADJECTIVE', '[2]': 'NOUN', '[3]': 'NOUN (PLURAL)', '[4]': 'NOUN', '[5]': 'VERB ENDING IN "ED"'}
+There was an [1] woman who lived in a/an [2]. She had so many [3] she didn`t know what to do. She gave them some broth without any [4]. She [5] them all soundly and put them to bed.

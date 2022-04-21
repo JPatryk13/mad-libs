@@ -1,0 +1,3 @@
+Dream Lover (Bobby Darin)
+{'[1]': 'VERB', '[2]': 'OCCUPATION', '[3]': 'NOUN', '[4]': 'BODY PART (PLURAL)', '[5]': 'NOUN (PLURAL)', '[6]': 'VERB', '[7]': 'NOUN', '[8]': 'ADJECTIVE', '[9]': 'BODY PART', '[10]': 'ADJECTIVE', '[11]': 'VERB', '[12]': 'SOUND', '[13]': 'VERB'}
+Every night I [1] and pray A dream [2] will come my way A [3] to hold in my [4] And know the magic of her [5] Because I want A [3] To call My own I want a dream [2] So I don`t have to [6] alone Dream [2], where are you? With a [7], oh, so [8] And a [9] that I can hold, Feel you near As I grow [10] Because I want A [3] To call My own I want a dream [2] So I don`t have to [11] alone Someday, I don`t know how I [1] She`ll hear my [12] Someway, I don`t know how She`ll [13] her [10] to me

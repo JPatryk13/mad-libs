@@ -1,0 +1,3 @@
+Latinlib #1 (yes -- in Latin!)
+{'[1]': 'LATIN NAME IN NOM. CASE', '[2]': 'NOM SING. NOUN', '[3]': 'ACC. PL. NOUN', '[4]': 'ACC. PL. NOUN', '[5]': 'ACC. SING. PLACE', '[6]': 'INFINITIVE', '[7]': 'ACC. SING. NOUN', '[8]': 'INFINITIVE', '[9]': 'ACC. SING. NOUN'}
+[1] est [2]. [1] [3] amat, sed [4] odiat. [1] navigat ad [5], ubi amat [6] [7] et [8] [9].

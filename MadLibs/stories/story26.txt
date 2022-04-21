@@ -1,0 +1,3 @@
+Robert Jordan
+{'[1]': 'ADJECTIVE', '[2]': 'NOUN', '[3]': 'ADJECTIVE', '[4]': 'ANIMAL', '[5]': 'VERB ENDING IN "ING"', '[6]': 'NOUN (PLURAL)', '[7]': 'OCCUPATION', '[8]': 'NOUN (PLURAL)', '[9]': 'NOUN (PLURAL)', '[10]': 'NOUN', '[11]': 'NOUN'}
+Robert Jordan is probably most known for his [1] series, The Wheel of Time, consisting of the books The [2] of the World, The [3] Hunt, The [4] Reborn, The Shadow [5], The [6] of Heaven, [7] of Chaos, A Crown of [8], The Path of [9], [10]`s Heart, and Crossroads of [11].

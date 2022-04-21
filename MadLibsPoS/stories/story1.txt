@@ -1,0 +1,3 @@
+Greetings, Earthlings!
+{'[1]': 'NOUN (PLURAL)', '[2]': 'OCCUPATION', '[3]': 'ANIMAL (PLURAL)', '[4]': 'PLACE', '[5]': 'VERB', '[6]': 'NOUN'}
+In the book War of the [1], the main character is an anonymous [2] who records the arrival of [3] in [4]. Needless to say, havoc reigns as the [3] continue to [5] everything in sight, until they are killed by the common [6].

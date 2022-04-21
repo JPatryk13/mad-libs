@@ -1,0 +1,3 @@
+Green Tea Label
+{'[1]': 'ADJECTIVE', '[2]': 'VERB ENDING IN "ED"', '[3]': 'ADJECTIVE', '[4]': 'ADJECTIVE', '[5]': 'NOUN (PLURAL)', '[6]': 'ADJECTIVE', '[7]': 'NOUN (PLURAL)', '[8]': 'VERB ENDING IN "S"', '[9]': 'ADJECTIVE', '[10]': 'VERB', '[11]': 'NOUN'}
+This [1] green tea is [2] with the highly [3], [4] flavor of tart green [5] and the [6], sweet flavor of orange [7]. This trio [8] up a refreshing [9] ritual - either [10] hot or over [11].

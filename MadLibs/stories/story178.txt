@@ -1,0 +1,3 @@
+Sick Note
+{'[1]': 'SILLY WORD', '[2]': 'LAST NAME', '[3]': 'ILLNESS', '[4]': 'NOUN (PLURAL)', '[5]': 'ADJECTIVE', '[6]': 'ADJECTIVE', '[7]': 'SILLY WORD', '[8]': 'PLACE', '[9]': 'NUMBER', '[10]': 'ADJECTIVE'}
+Dear School Nurse: [1] [2] will not be attending school today. He/she has come down with a case of [3] and has horrible [4] and a/an [5] fever. We have made an appointment with the [6] Dr. [7], who studied for many years in [8] and has [9] degrees in pediatrics. He will send you all the information you need. Thank you! Sincerely Mrs. [10].

@@ -1,0 +1,3 @@
+Holiday Festivities 
+{'[1]': 'MONTH', '[2]': 'NUMBER', '[3]': 'HOLIDAY', '[4]': 'NOUN (PLURAL)', '[5]': 'VERB ENDING IN "ED"', '[6]': 'NOUN (PLURAL)', '[7]': 'VERB', '[8]': 'NOUN', '[9]': 'NOUN', '[10]': 'NOUN', '[11]': 'OCCUPATION'}
+On [1] [2] every year, we celebrate [3]. All the [4] get [5] up in [6] and [7] all over the [8]. Many people love to eat their favorite [9] or [10] much to their [11]`s dismay.

@@ -1,0 +1,3 @@
+Fortune Cookies 1
+{'[1]': 'VERB', '[2]': 'ADVERB', '[3]': 'ADJECTIVE', '[4]': 'NOUN (PLURAL)', '[5]': 'NOUN (PLURAL)', '[6]': 'ADJECTIVE', '[7]': 'VERB ENDING IN "ING"', '[8]': 'NOUN (PLURAL)', '[9]': 'NOUN', '[10]': 'WEAPON (PLURAL)'}
+- [1] [2] without being [3]. - The Universe does not have [4] -- it has [5], and [5] can be [6]. - The [7] of random [8] is too important to be left to chance.- You can build a [9] with [10], but you can`t sit on it for long.

@@ -1,0 +1,3 @@
+Movie Quotes 1
+{'[1]': 'VERB', '[2]': 'VERB ENDING IN "ING"', '[3]': 'NOUN', '[4]': 'ADJECTIVE', '[5]': 'OCCUPATION', '[6]': 'ANIMAL', '[7]': 'ADJECTIVE', '[8]': 'VERB ENDING IN "ING"', '[9]': 'NOUN'}
+" My name is [1]; learn it well, for it`s the [2] sound of your [3]."" I told Killian I`d be [4]. I wouldn`t want to be a/an [5]."" I`m a cybernetic [6]: living tissue over a/an [7] endoskeleton."" If things have gone wrong, I`m [8] myself, and you`ve got a wet [9] wrapped around your head."- Arnold Schwarzenegger

@@ -1,0 +1,3 @@
+Ancient Proverbs 2
+{'[1]': 'ADJECTIVE', '[2]': 'VERB', '[3]': 'BODY PART', '[4]': 'ADJECTIVE', '[5]': 'FOOD', '[6]': 'VERB ENDING IN "S"', '[7]': 'NOUN', '[8]': 'NOUN', '[9]': 'ADJECTIVE'}
+" A woman`s advice is no [1] thing, but he who won`t [2] it is a fool."" Absence makes the [3] grow [4]-er."" A/ An [5] never [6] far from the [7]."" Anyone can hold the [8] when the sea is [9]."

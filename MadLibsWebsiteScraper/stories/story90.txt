@@ -1,0 +1,3 @@
+Pirates of the Caribbean: The Curse of the Black Pearl
+{'[1]': 'PERSON IN ROOM', '[2]': 'PLURAL NOUN', '[3]': 'VERB', '[4]': 'NOUN', '[5]': 'VERB ENDING IN "ED"', '[6]': 'VERB ENDING IN "ING"', '[7]': 'VERB', '[8]': 'NOUN', '[9]': 'VERB'}
+Jack: Who makes all these? [1]: I do, and I practice with them three [2] a day. Jack: You need to [3] yourself a [4], mate. Or perhaps the reason you practice three [2] a day is because you`ve already [5] one, and are otherwise incapable of [6] said strumpet. You`re not a [7], are you? [1]: I practice three [2] a day so that when I meet a [8], I can [9] it! Jack: Ah.

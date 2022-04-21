@@ -1,0 +1,3 @@
+Runaway Bride Proposal
+{'[1]': 'ADJECTIVE', '[2]': 'NOUN', '[3]': 'NUMBER', '[4]': 'NOUN', '[5]': 'ADJECTIVE', '[6]': 'VERB', '[7]': 'NOUN', '[8]': 'BODY PART', '[9]': 'ADJECTIVE'}
+Look, I guarantee there`ll be [1] times. I guarantee that at some [2], [3] or both of us is gonna want to get out of this [4]. But I also guarantee that if I don`t ask you to be [5], I`ll [6] it for the rest of my [7], because I know, in my [8], you`re the [9] one for me.

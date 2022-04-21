@@ -1,0 +1,3 @@
+Weird Day
+{'[1]': 'NOUN', '[2]': 'ADJECTIVE', '[3]': 'NOUN (PLURAL)', '[4]': 'FAMOUS PERSON', '[5]': 'PLACE', '[6]': 'VERB ENDING IN "ING"', '[7]': 'ADJECTIVE', '[8]': 'YOUR FAVORITE SONG', '[9]': 'VERB ENDING IN "ED"', '[10]': 'ADVERB', '[11]': 'VERB ENDING IN "ING"', '[12]': 'NAME OF SUPERMODEL', '[13]': 'ADJECTIVE'}
+Once upon a time there was a [1]. It had [2] [3]! One day it met [4] on the side of the [5] they were [6]. It was very [7]; they both looked like hobos! All of the sudden they started singing [8] really loudly. They [9] really [10]! [4] started [11] with [12]. They looked really [13]!

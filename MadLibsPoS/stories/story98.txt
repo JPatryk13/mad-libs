@@ -1,0 +1,3 @@
+Fortune Cookies 2
+{'[1]': 'VERB', '[2]': 'ADJECTIVE', '[3]': 'ADJECTIVE', '[4]': 'NOUN', '[5]': 'ADJECTIVE', '[6]': 'VERB ENDING IN "ED"', '[7]': 'NOUN', '[8]': 'VERB ENDING IN "ING"'}
+- While anyone can [1] to themselves they were [2], the true test is admission to someone else.- Faults are [3] where [4] is thin.- The only real way to look [5] is not to be [6] so soon.- Always try to do things in chronological [7]; it`s less [8] that way.

@@ -1,0 +1,3 @@
+Going to the Mall
+{'[1]': 'NUMBER', '[2]': 'ADJECTIVE', '[3]': 'NAME OF SOMEONE IN THE ROOM', '[4]': 'ANIMAL (PLURAL)', '[5]': 'NOUN (PLURAL)', '[6]': 'VERB ENDING IN "ING"', '[7]': 'NOUN (PLURAL)', '[8]': 'ADJECTIVE', '[9]': 'ADJECTIVE', '[10]': 'NOUN', '[11]': 'LOCATION', '[12]': 'NOUN'}
+Yesterday, me and [1] of my friends took a trip to the mall. While we were there we saw this really [2] store called [3]`s Pets. We saw [4] and [5] [6] in the store display. So we had to go inside. They had miniture [7] and [8] little bunnies. We even got to play with the [9] [10] in the [11]. I want a/an [12] so much!

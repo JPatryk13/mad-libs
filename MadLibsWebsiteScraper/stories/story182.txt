@@ -1,0 +1,3 @@
+Love Letter 4
+{'[1]': 'PERSON IN ROOM', '[2]': 'ADJECTIVE', '[3]': 'VERB', '[4]': 'PART OF THE BODY', '[5]': 'NUMBER', '[6]': 'NOUN', '[7]': 'ADVERB', '[8]': 'VERB', '[9]': 'PRONOUN PLURAL', '[10]': 'OTHER PERSON IN ROOM'}
+Dear [1], You are extremly [2] and I [3] you! I want kiss your [4] [5] times. You make my [6] burn with desire. When I first saw you, I [7] stared at you and fell in love. Will you [8] out with me? Don`t let your parents discourage you, [9] are just jealous. Yours forever, [10]

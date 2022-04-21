@@ -1,0 +1,3 @@
+The Walmart Difference
+{'[1]': 'VERB', '[2]': 'ADJECTIVE', '[3]': 'NOUN (PLURAL)', '[4]': 'ADJECTIVE', '[5]': 'VERB ENDING IN "ING"', '[6]': 'VERB', '[7]': 'NUMBER', '[8]': 'ADJECTIVE', '[9]': 'NOUN (PLURAL)', '[10]': 'NOUN (PLURAL)', '[11]': 'NOUN (PLURAL)', '[12]': 'RELATIVE (PLURAL)', '[13]': 'ADJECTIVE', '[14]': 'ADJECTIVE', '[15]': 'NOUN (PLURAL)'}
+Come [1] at W A L M A R T, where you`ll receive [2] discounts on all of your favorite brand name [3]. Our [4] and [5] associates are there to [6] you [7] hours a day. Here you will find [8] prices on the [9] you need. [10] for the moms, [11] for the kids and all the latest electronics for the [12]. So come on down to your [13] [14] W A L M A R T where the [15] come first.

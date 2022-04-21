@@ -1,0 +1,3 @@
+California Dreamin` (Mamas and the Papas)
+{'[1]': 'COLOR', '[2]': 'COLOR', '[3]': 'TIME OF YEAR', '[4]': 'ADJECTIVE', '[5]': 'ADJECTIVE', '[6]': 'PLACE', '[7]': 'PLACE', '[8]': 'VERB ENDING IN "ING"', '[9]': 'NOUN', '[10]': 'BUILDING', '[11]': 'BODY PART', '[12]': 'VERB', '[13]': 'OCCUPATION', '[14]': 'PRONOUN', '[15]': 'PLACE', '[16]': 'VERB ENDING IN "ING"', '[17]': 'NOUN'}
+All the leaves are [1]and the sky is [2] I`ve been for a walk on a [3] day I`d be [4] and [5] If I was in [6] [7] [8] on such a winter`s [9] Stopped into a [10] I passed along the waywell I got down on my [11]and I pretend to [12] You know the [13] like the cold [14] knows I`m gonna stay [15] [16]on such a winter`s [17]

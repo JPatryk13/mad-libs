@@ -1,0 +1,3 @@
+Snow White
+{'[1]': 'ADJECTIVE', '[2]': 'OCCUPATION', '[3]': 'ADJECTIVE', '[4]': 'NOUN', '[5]': 'COLOR', '[6]': 'NUMBER', '[7]': 'FANTASY CREATURE (PLURAL)', '[8]': 'NOUN', '[9]': 'VERB ENDING IN "S"', '[10]': 'FOOD', '[11]': 'NOUN', '[12]': 'TYPE OF MATERIAL', '[13]': 'TYPE OF CONTAINER', '[14]': 'NOUN'}
+From the [1] fairy tale, a jealous [2] attempts to get rid of her [3] step- [4], Snow [5], who takes refuge with [6] [7] in their forest [8]. The [2] changes into a witch and [9] Snow [5] with a poisoned [10] which puts her into an everlasting [11], until a prince finds her in a [12] [13] and awakens her with Love`s First [14].

@@ -1,0 +1,3 @@
+Ten Commandments
+{'[1]': 'VERB', '[2]': 'NOUN', '[3]': 'ADJECTIVE', '[4]': 'GOVERNMENT POSITION', '[5]': 'HOLIDAY', '[6]': 'OCCUPATION (PLURAL)', '[7]': 'VERB', '[8]': 'TYPE OF CRIME', '[9]': 'VERB', '[10]': 'ADJECTIVE', '[11]': 'NOUN', '[12]': 'NOUN'}
+1. You shall not [1] any other [2]. 2. You shall not make a [3] image. 3. You shall not take the name of the [4] in vain. 4. You shall not break the [5]. 5. You shall not dishonor your [6]. 6. You shall not [7]. 7. You shall not commit [8]. 8. You shall not [9]. 9. You shall not bear [10] witness against thy [11]. 10. You shall not covet thy neighbor`s [12].

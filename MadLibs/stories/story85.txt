@@ -1,0 +1,3 @@
+Like a ...... (Madonna)
+{'[1]': 'OCCUPATION', '[2]': 'VERB ENDING IN "ED"', '[3]': 'ADJECTIVE', '[4]': 'BODY PART', '[5]': 'NOUN (PLURAL)', '[6]': 'VERB ENDING IN "ING"', '[7]': 'VERB ENDING IN "ING"', '[8]': 'ADJECTIVE', '[9]': 'VERB', '[10]': 'VERB ENDING IN "ED"', '[11]': 'ADJECTIVE', '[12]': 'ADJECTIVE', '[13]': 'VERB ENDING IN "S"'}
+Like a/an [1] [2] for the [3] first time Like a/an [1] When your [4] beats Next to mine Gonna give you all my [5], boy My fear is [6] fast Been [7] it all for you` Cause only [6] can last You`re so [8] and you`re mine [9] me strong, yeah you [11] me bold Oh your [6] [10] out Yeah, your [6] [14] out What was scared and [11] Like a/an [1] [2] for the [12] first time Like a/an [1] When your heart [13] Next to mine

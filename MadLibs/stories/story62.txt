@@ -1,0 +1,3 @@
+Heart in Motion (Amy Grant)
+{'[1]': 'SOUND', '[2]': 'VERB ENDING IN "S"', '[3]': 'ADJECTIVE', '[4]': 'VERB', '[5]': 'COLOR', '[6]': 'FAMOUS PERSON', '[7]': 'NOUN', '[8]': 'NOUN', '[9]': 'VERB ENDING IN "ING"', '[10]': 'VERB ENDING IN "ING"', '[11]': 'NOUN', '[12]': 'NOUN', '[13]': 'ADVERB', '[14]': 'NOUN', '[15]': 'NOUN', '[16]': 'VERB', '[17]': 'VERB', '[18]': 'TYPE OF MEASUREMENT'}
+Every [1] [2] your name Loud and [3] they [4] my claim My [5] blood runs true blue And every [1] belongs to [6]. Classic case of [7] meets [8] [9] in the same direction You`re not [10] for the [11] I`m not [11] for perfection. Just a [12] that`s [13] designed For passing the [14] of [15] I`m here to [16] you I`m here to [17] Every hour, every [18].

@@ -1,0 +1,3 @@
+Harry Potter and the Sorcerer`s Stone
+{'[1]': 'BOY`S NAME', '[2]': 'NOUN', '[3]': 'OCCUPATION', '[4]': 'MEASUREMENT', '[5]': 'NOUN', '[6]': 'ADJECTIVE', '[7]': 'GAME', '[8]': 'ADJECTIVE', '[9]': 'NOUN (PLURAL)', '[10]': 'VERB ENDING IN "ING"'}
+On his 11th birthday, young [1] Potter discovers the [2] he never knew he had, the [2] of a/an [3]. In his first [4] at Hogwarts School of Witchcraft and [5], he meets his two [6] friends Ron Weasley, an expert at Wizard [7], and Hermione Granger, a girl with [8] parents. Harry learns the game of Quiditch and Wizard [8] on his way to facing a Dark [9] teacher who is bent on [10] him.

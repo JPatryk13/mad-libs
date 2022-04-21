@@ -1,0 +1,3 @@
+Latinlib #2
+{'[1]': 'NAME IN NOM. S.', '[2]': 'ACC. PL.', '[3]': 'ACC. PL.'}
+[1] [2] capit et fugit celeriter. [1] amat [3] et dat ad [2]. [1] laeta est.

@@ -1,0 +1,3 @@
+The Twelve Days of Christmas
+{'[1]': 'HOLIDAY', '[2]': 'ADJECTIVE', '[3]': 'OCCUPATION (PLURAL)', '[4]': 'VERB ENDING IN "ING"', '[5]': 'VERB ENDING IN "ING"', '[6]': 'NOUN (PLURAL)', '[7]': 'NOUN (PLURAL)', '[8]': 'OCCUPATION (PLURAL)', '[9]': 'VERB ENDING IN "ING"', '[10]': 'NOUN (PLURAL)', '[11]': 'ADJECTIVE', '[12]': 'VERB ENDING IN "ING"', '[13]': 'NATIONALITY', '[14]': 'NOUN (PLURAL)', '[15]': 'ANIMAL', '[16]': 'NOUN'}
+On the twelfth day of [1],my [2] love sent to me Twelve [3] [4], Eleven pipers [5], Ten [6] a leaping, Nine [7] dancing, Eight [8] a milking, Seven swans a [9], Six [10] a laying, Five [11] rings, Four [12] birds, Three [13] Hens, Two turtle [14], And a/an [15] in a/an [16] tree.

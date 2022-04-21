@@ -1,0 +1,3 @@
+Motivational Posters 1
+{'[1]': 'NOUN (PLURAL)', '[2]': 'ADJECTIVE', '[3]': 'NOUN (PLURAL)', '[4]': 'VERB', '[5]': 'NOUN', '[6]': 'VERB ENDING IN "S"', '[7]': 'ADJECTIVE', '[8]': 'ADJECTIVE', '[9]': 'VERB', '[10]': 'NUMBER', '[11]': 'ANIMAL', '[12]': 'ANIMAL'}
+[1] are the most [2] [3] used by mankind. Teamwork is the ability to [4] together toward a common [5]. It is the fuel that [6] [7] people to attain un- [7] results. The most [8] thing we can [9] is the mysterious. I am more afraid of an army of [10] [11](s) led by a [12] than an army of [11] [13](s) led by a [12].

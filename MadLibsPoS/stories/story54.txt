@@ -1,0 +1,3 @@
+Polarized Plug
+{'[1]': 'HOUSEHOLD ITEM', '[2]': 'ADJECTIVE', '[3]': 'VERB', '[4]': 'VERB ENDING IN "ED"', '[5]': 'NOUN', '[6]': 'ADVERB (ENDS IN "LY")', '[7]': 'VERB', '[8]': 'OCCUPATION', '[9]': 'VERB', '[10]': 'ADJECTIVE', '[11]': 'ADJECTIVE', '[12]': 'NOUN'}
+This [1] has a polarized plug (one blade is more [2] than the other). To [3] the risk of electric shock, this plug is [4] to fit into a polarized [5] only one way. If the plug does not fit [6] into the outlet, [7] the plug. If it still does not fit, contact a qualified [8]. Do not attempt to [9] the plug in any way. If the plug fits loosely into the [10] outlet or if the [10] outlet feels [11] do not use that [12].
